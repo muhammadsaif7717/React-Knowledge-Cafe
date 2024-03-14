@@ -1,0 +1,63 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Exploring the Cosmos: A Journey Beyond the Stars",
+      "author": "Dr. Celeste Astronomer",
+      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "rating": 4.8,
+      "time": "12:30 PM",
+      "reading_time": "10",
+      "hashtags": ["#SpaceExploration", "#Astronomy"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Secrets of Ancient Temples Unveiled",
+      "author": "Prof. Lara Archaeologist",
+      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "rating": 4.5,
+      "time": "3:15 PM",
+      "reading_time": "8",
+      "hashtags": ["#Archaeology", "#History"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Gourmet Delights: Culinary Adventures Around the World",
+      "author": "Chef Gustavo Foodie",
+      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "rating": 4.9,
+      "time": "6:45 PM",
+      "reading_time": "6",
+      "hashtags": ["#FoodieLife", "#TravelEats"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Inspirational Stories: Triumph Over Adversity",
+      "author": "Maya Motivator",
+      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "rating": 4.7,
+      "time": "9:00 AM",
+      "reading_time": "7",
+      "hashtags": ["#Inspiration", "#Resilience"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Artistic Expressions: Colors of Emotion",
+      "author": "Pablo Painter",
+      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "rating": 4.6,
+      "time": "1:45 PM",
+      "reading_time": "11",
+      "hashtags": ["#Art", "#Creativity"]
+    }
+  ]
+   
