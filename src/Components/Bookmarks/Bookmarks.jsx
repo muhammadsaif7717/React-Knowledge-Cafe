@@ -1,22 +1,24 @@
-const Bookmarks = () => {
+import PropTypes from 'prop-types';
+import Bookmark from '../Bookmark/Bookmark';
+
+const Bookmarks = ({bookmarks}) => {
     return (
         <div className="md:w-1/3">
+
             <div className="w-full border border-[#6047EC] bg-[#EFECFD] text-center py-4 rounded-xl mb-5">
             <h1 className="font-bold">Spent Time On Read: <span>100</span> min</h1>
             </div>
         <div className="p-5 bg-[#F3F3F3] rounded-xl">
-            <h1 className="font-bold mb-5">Bookmark Blogs: <span>8</span></h1>
-            <div>
-                <div className="text-center p-3 bg-white rounded-xl mb-5">
-                    <h1 className="text-sm font-bold">Top 10 ES6 Features You Must Know</h1>
-                </div>
-                <div className="text-center p-3 bg-white rounded-xl mb-5">
-                    <h1 className="text-sm font-bold">Top 10 ES6 Features You Must Know</h1>
-                </div>
-            </div>
+            <h1 className="font-bold mb-5">Bookmark Blogs: <span>{bookmarks.length}</span></h1>
+            {
+                bookmarks.map(bookmark=><Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+            }
         </div>
         </div>
     );
 };
 
+Bookmarks.propTypes={
+    bookmarks: PropTypes.array.isRequired,
+}
 export default Bookmarks;

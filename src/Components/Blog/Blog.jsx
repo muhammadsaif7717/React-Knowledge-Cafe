@@ -18,7 +18,7 @@ const Blog = ({ blog,handleAddToBookmark }) => {
                 </div>
                 <div className='flex items-center'>
                     <h1 className='text-gray-500 mr-2'>{reading_time} minutes red</h1>
-                    <button onClick={handleAddToBookmark}><CiBookmark></CiBookmark></button>
+                    <button onClick={()=>handleAddToBookmark(blog)}><CiBookmark></CiBookmark></button>
                 </div>
             </div>
             <h2 className="text-3xl mb-3">{title}</h2>
