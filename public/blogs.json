@@ -1,10 +1,10 @@
 [
     {
       "id": 12345,
-      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
-      "title": "Exploring the Cosmos: A Journey Beyond the Stars",
+      "cover": "https://i.postimg.cc/d3vgycY1/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
       "author": "Dr. Celeste Astronomer",
-      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/J72FbFWP/boy1.png",
       "posted_date": "March 14, 2024",
       "rating": 4.8,
       "time": "12:30 PM",
@@ -13,10 +13,10 @@
     },
     {
       "id": 98765,
-      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "cover": "https://i.postimg.cc/d3LrnLvS/2.png",
       "title": "Secrets of Ancient Temples Unveiled",
       "author": "Prof. Lara Archaeologist",
-      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/3rvqFBJh/boy2.jpg",
       "posted_date": "March 14, 2024",
       "rating": 4.5,
       "time": "3:15 PM",
@@ -25,10 +25,10 @@
     },
     {
       "id": 54321,
-      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "cover": "https://i.postimg.cc/yNDgSWhf/3.png",
       "title": "Gourmet Delights: Culinary Adventures Around the World",
       "author": "Chef Gustavo Foodie",
-      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/B6cKJkBs/girl1.jpg",
       "posted_date": "March 14, 2024",
       "rating": 4.9,
       "time": "6:45 PM",
@@ -37,27 +37,15 @@
     },
     {
       "id": 24680,
-      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "cover": "https://i.postimg.cc/NfNj7BjZ/4.jpg",
       "title": "Inspirational Stories: Triumph Over Adversity",
       "author": "Maya Motivator",
-      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/xCt1x2Pk/girl2.jpg",
       "posted_date": "March 14, 2024",
       "rating": 4.7,
       "time": "9:00 AM",
       "reading_time": "7",
       "hashtags": ["#Inspiration", "#Resilience"]
-    },
-    {
-      "id": 13579,
-      "cover": "https://i.ibb.co/jVkMfP4/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
-      "title": "Artistic Expressions: Colors of Emotion",
-      "author": "Pablo Painter",
-      "author_img": "https://i.ibb.co/VjgFGk8/warren-VVEw-JJRRHgk-unsplash.jpg",
-      "posted_date": "March 14, 2024",
-      "rating": 4.6,
-      "time": "1:45 PM",
-      "reading_time": "11",
-      "hashtags": ["#Art", "#Creativity"]
     }
   ]
    
